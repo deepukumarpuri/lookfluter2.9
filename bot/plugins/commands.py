@@ -31,7 +31,8 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption =f"<code>{file_name}</code>\n \n<b>T̷h̷a̷n̷k̷ ̷y̷o̷u̷ ̷f̷o̷r̷ ̷U̷s̷i̷n̷g̷ ̷T̷h̷i̷s̷ ꪖᡶꪑꪉ Version 2.9\n ꪖᡶꪑꪉ =Any Time Movie Bot😜🤣</b>\n \n𝐉𝐨𝐢𝐧 𝐮𝐬:--> @𝐂𝐢𝐧𝐞𝐦𝐚𝐡𝐮𝐛𝟏𝟖𝟐",
+                caption =f"<code>{file_name}</code>\n \n<b>T̷h̷a̷n̷k̷ ̷y̷o̷u̷ ̷f̷o̷r̷ ̷U̷s̷i̷n̷g̷ ̷T̷h̷i̷s̷ ꪖᡶꪑꪉ Version 2.9\n ꪖᡶꪑꪉ =Any Time Movie Bot😜🤣</b>\n \n𝐉𝐨𝐢𝐧 𝐮𝐬:--> @Cinemahub182
+",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
