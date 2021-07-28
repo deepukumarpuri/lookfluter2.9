@@ -4,19 +4,17 @@
 
 class Translation(object):
     
-    START_TEXT = """ <b>Hi {} 💃
-Am Just A Advance Auto Filter Bot....😉\n
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝\n
-
-For More Details Click /help Button 🥵.. @Leos_Tg\n
-#StopPiracy #GoLegal</b>"""
+    START_TEXT = """ <b>Hey {} How are You!!</b>
+<i>🙋‍♂️ Hello
+I AM ALL TYPES OF MOVIE/SERIAL UPLOADER BOT. YOU WANT  NETFLIX MOVIE/SERIAL GO MY GROUP :- @HINDIMOVIEWEBSERIESNETFLIX.SEND /help TO KNOW MORE.
+ALL TYPES OF MOVIE AVALIABLE MY CHANNEL:- @ALLSERIESMOVIESHD
+BHOJPURI CHANEL :- @HD_BHOJPURI_MOVIE<b>"""
 
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
-
-*READ THIS* 👉 <i><a href="https://telegra.ph/Version-29-07-24">Itz All About Version 2.9</a></i>
+<b><i><u>**GO MY GROUP :- @INDIMOVIEWEBSERIESNETFLIX 
+AND SEND ANY MOVIE/SERIAL NAME IN MY GROUP
+BOT SEND MOVIE/SERIAL</a></i>
 
 """
 
@@ -31,13 +29,11 @@ For More Details Click /help Button 🥵.. @Leos_Tg\n
 
 
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code>Version 2.9</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code>DK MOVIE/SERIES BOT</code>
     
-➥ 𝕾𝖔𝖚𝖗𝖈𝖊 𝕮𝖔𝖉𝖊: <b><i><a href="https://t.me/Leos_TG">Leos_Tg</a></i></b>
+➥ OWNER: <b><i><a href="https://t.me/DKBOTZHELP">ANONYMOSE</a></i></b>
 
-<b>➥ Language</b> : <code>Malayalam</code>
-
-<b>➥ 𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭 𝐎𝐰𝐧𝐞𝐝 𝐁𝐲</b> : Leo
+<b>➥ Language</b> : <code>HINDI</code>
 """
 
 
