@@ -35,26 +35,10 @@
 ## How To Deploy (CliCk to That Fecking PiC 🔒) 
 * With Heroku: [Ask Leo](https://t.me/inlineLeosBot)
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/Leos-TG/Version-2.9"><img src="https://telegra.ph/file/3534cc09d513704a68127.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/deepukumarpuri/lookfluter2.9"><img src="https://telegra.ph/file/3534cc09d513704a68127.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
 > **NOTE** : your can fill other vars as your need and they are optional. (settings -> reveal config vars)
 * First click The Button Above.
 * Fill `API_ID`, `API_HASH`, `BOT_TOKEN`, `FORCESUB_CHANNEL` , `DB_URI` and `USER_SESSION` (**required**)
-
-
-* Finally **hit deploy** button
-
-
-
-
-# Don't Forgot to ForK & 🌟 Star
-  
-# Credits
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-
- - Thanks To @AlbertEinstein_TG For His Autofilter V2 [Autofilter V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2)
- - Special Credits For Leo [Leo](https://t.me/Leos_Tg)
-
-
