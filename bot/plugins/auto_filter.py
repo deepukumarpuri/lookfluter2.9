@@ -62,7 +62,7 @@ async def auto_filter(bot, update):
     if filters:
         results.append(
                 [
-                    InlineKeyboardButton("💢 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 💢", url="https://t.me/cinemAhub186")
+                    InlineKeyboardButton("💢 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 💢", url="https://t.me/ALLSERIESMOVIESHD")
                 ]
             )
         for filter in filters: # iterating through each files
@@ -209,7 +209,7 @@ async def auto_filter(bot, update):
             await bot.send_photo(
                 chat_id = update.chat.id,
                 photo="https://telegra.ph/file/cb0d06c9a9feed9a577ff.jpg",
-                caption=f"<b>𝐆𝐫𝐨𝐮𝐩:- @Cinemahub182</b>...\n𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲:- {update.from_user.mention} 😏\n𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐌𝐨𝐯𝐢𝐞:- <code>{query}</code> 👩‍💻\n𝐓𝐨𝐭𝐚𝐥 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:- {(len_results)} 💯\n𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 :- @Leos_Tg ⚜",
+                caption=f"<b>𝐆𝐫𝐨𝐮𝐩:- @HINDIMOVIEWEBSERIESNETFLIX</b>...\n𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲:- {update.from_user.mention} 😏\n𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐌𝐨𝐯𝐢𝐞:- <code>{query}</code> 👩‍💻\n𝐓𝐨𝐭𝐚𝐥 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:- {(len_results)} 💯\n𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 :- @ALLSERIESMOVIESHD ⚜",
                 reply_markup=reply_markup,
                 parse_mode="html",
                 reply_to_message_id=update.message_id
