@@ -39,7 +39,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'S̵̶̮̬͖̄͑͟h̶̯̰̝̻̿̓͢ă̶̸̝ͦ͊̿͋͞r̶̷̲͍̭͐̾̀͟ę̷̵̧̖̫̗̆̊ N̰̜͉͔ͬ̽͢ȍ̸̢̢̮͚̐̚ẅ̷̷̢̟͇͈̒', url="https://t.me/share/url?url=%20https://t.me/leos_tg"
+                                    'S̵̶̮̬͖̄͑͟h̶̯̰̝̻̿̓͢ă̶̸̝ͦ͊̿͋͞r̶̷̲͍̭͐̾̀͟ę̷̵̧̖̫̗̆̊ N̰̜͉͔ͬ̽͢ȍ̸̢̢̮͚̐̚ẅ̷̷̢̟͇͈̒', url="https://t.me/share/url?url=%20https://t.me/DKBOTZHELP"
                                 )
                         ]
                     ]
