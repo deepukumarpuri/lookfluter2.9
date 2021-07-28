@@ -143,7 +143,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<b>𝐆𝐫𝐨𝐮𝐩:- @Cinemahub182</b>...\n𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲:- {update.from_user.mention} 😏\n𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐌𝐨𝐯𝐢𝐞:- <code>{query}</code> 👩‍💻\n𝐓𝐨𝐭𝐚𝐥 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:- {(leng)} 💯\n𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 :- @Leos_Tg ⚜"
+    text=f"<b>𝐆𝐫𝐨𝐮𝐩:- @HINDIMOVIEWEBSERIESNETFLIX</b>...\n𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲:- {update.from_user.mention} 😏\n𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐌𝐨𝐯𝐢𝐞:- <code>{query}</code> 👩‍💻\n𝐓𝐨𝐭𝐚𝐥 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:- {(leng)} 💯\n𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 :- @ALLSERIESMOVIESHD ⚜"
         
     try:
         await update.message.edit(
@@ -1601,15 +1601,15 @@ async def cb_about(bot, update: CallbackQuery):
 
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
-    text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto Filter Files</i>\n"
-    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/CrazyBotszGrp">@CrazyBotszGrp</a>\n"""
-    text+="""\n<b><i>Source Code:</i></b> <a href="https://github.com/AlbertEinsteinTG/Adv-Filter-Bot-V2">Source</a>"""
+    text+=f"\n<b><i>Bot Funtion:</i></b> <i>BY @DKBOTZ</i>\n"
+    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/DK_BOTZ">@DK_BOTZ</a>\n"""
+    text+="""\n<b><i>OWNER:</i></b> <a href="https://t.me/DKBOTZHELP">OWNER</a>"""
 
     buttons = [
         [
             InlineKeyboardButton
                 (
-                    "Modified By ⚡", url="https://t.me/Leos_tg"
+                    "Modified By ⚡", url="https://t.me/DKBOTZHELP"
                 ),
                 
             InlineKeyboardButton
@@ -1640,10 +1640,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/Leos_Tg'),
-            InlineKeyboardButton('Source Code 👩‍💻', url ='httpps://t.me/Leos_Tg')
+            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/DKBOTZHELP'),
+            InlineKeyboardButton('BOT CHANNEL 👩‍💻', url ='httpps://t.me/DKBOTZ')
         ],[
-            InlineKeyboardButton('Support 👩‍🦯', url='https://t.me/XDgangZ')
+            InlineKeyboardButton('Support 👩‍🦯', url='https://t.me/DK_BOTZ')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
